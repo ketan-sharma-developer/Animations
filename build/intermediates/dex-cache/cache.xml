@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_110eef0f65b7b03ff15ea3670ce728553a8af45b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.0-rc3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2af1f443cdb8cb78e1195b9b99013a6089ab35b0">
+        <dex dex="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.0-rc3_bcdd305467b16dfd4b43d92854eedd20260b4af5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ketan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_f6222c671babb528243992a26b2222726b219123.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\exploded-aar\com.android.databinding\library\1.0-rc3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="acaeec786da68e5cfc30134c36cb5645a8a0c6ba">
+        <dex dex="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.0-rc3_256054bf0d6a2f81073a7e4325db507a203b35c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ketan\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\1.0-rc5\4d15bfec5956b906a26527dbde26a4fc84326611\baseLibrary-1.0-rc5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d15bfec5956b906a26527dbde26a4fc84326611">
+        <dex dex="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\pre-dexed\debug\baseLibrary-1.0-rc5_04e6fc87d388f318a098c5988a54c066cc049aeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_296d142f8ba420c950a4e6d14ac3b8467532c794.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_65957714b4594a59a1e6d5806a07cf5896eb1bb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Ketan\Documents\GitHub\Animations\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_edc96184a20b323c6321d3658a81286f349b5466.jar" />
+    </item>
+
+</items>
